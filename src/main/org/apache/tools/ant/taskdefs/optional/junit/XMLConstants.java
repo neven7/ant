@@ -126,6 +126,16 @@ public interface XMLConstants {
     /** classname attribute for testcase elements */
     String ATTR_CLASSNAME = "classname";
 
+    /** hugang  caseid attribute for testcase elements */
+    String ATTR_CASEID = "caseid";
+    
+    /** hugang casedesc attribute for testcase elements */
+    String ATTR_CASEDESC = "casedesc";
+    
+    /** hugang debug attribute for testcase elements */
+    String ATTR_DEBUG = "debug";
+    
+    
     /** id attribute */
     String ATTR_ID = "id";
 
